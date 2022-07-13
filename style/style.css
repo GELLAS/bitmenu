@@ -1,0 +1,17 @@
+@import url("style/header.css");
+
+
+:root{
+	--cor-de-fundo:#ff3300;
+	--branco:#f8f8f8;
+	--verde:#298400;
+	--cinza:#f0f076;
+    --cor-link:rgb(255, 255, 255);
+	--fonte-principal:"Montserrat";
+	--fonte-secundaria:"Noto Sans";
+	--fonte-terciaria:"Poppins"
+}
+
+body{
+ background: url(../imagens/bitcoinLogoWallpaper.png); 
+}
